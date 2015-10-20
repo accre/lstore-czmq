@@ -1,0 +1,12 @@
+Package: czmq-doc
+Source: czmq
+Version: 3.0.2-1
+Architecture: all
+Maintainer: unknown <build@unknown>
+Installed-Size: 236
+Section: libs
+Priority: optional
+Homepage: http://czmq.zeromq.org
+Description: documentation for czmq
+ Documentation for czmq a high-level C binding for ØMQ (http://czmq.zeromq.org)
+ Built from the ACCRE fork https://github.com/accre/czmq
